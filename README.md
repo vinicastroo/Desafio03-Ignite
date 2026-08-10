@@ -1,8 +1,8 @@
 # Desafio 03 - Ignite
 
-Desafio/exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2021. Consiste em criar um hook de carrinho de compras (`useCart`) para uma loja fictícia de tênis (RocketShoes): adicionar/remover produtos, controlar a quantidade respeitando o estoque disponível e persistir o carrinho, com feedback ao usuário via toasts.
+Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It consists of creating a shopping cart hook (`useCart`) for a fictitious sneaker store (RocketShoes): adding/removing products, controlling the quantity while respecting available stock, and persisting the cart, with user feedback via toasts.
 
-## Tecnologias
+## Technologies
 
 - React
 - TypeScript
@@ -10,17 +10,17 @@ Desafio/exercício de estudo do módulo de React.js do Ignite (Rocketseat), turm
 - styled-components
 - react-toastify
 - axios
-- json-server (API fake)
-- Jest + Testing Library (testes automatizados)
+- json-server (fake API)
+- Jest + Testing Library (automated tests)
 
-## Como rodar
+## How to run
 
 ```bash
 yarn install
 yarn server
 ```
 
-Em outro terminal:
+In another terminal:
 
 ```bash
 yarn start
