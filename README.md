@@ -2,6 +2,8 @@
 
 > This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
+![screenshot](./screenshot.png)
+
 Study challenge/exercise from the React.js module of Ignite (Rocketseat), 2021 class. It consists of creating a shopping cart hook (`useCart`) for a fictitious sneaker store (RocketShoes): adding/removing products, controlling the quantity while respecting available stock, and persisting the cart, with user feedback via toasts.
 
 ## Technologies
