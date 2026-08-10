@@ -25,3 +25,15 @@ In another terminal:
 ```bash
 yarn start
 ```
+
+## Related repositories
+
+Part of the React.js module of Ignite (Rocketseat), 2021 class:
+
+- [DTMoney-Ignite](https://github.com/vinicastroo/DTMoney-Ignite)
+- [Desafio01-Ignite](https://github.com/vinicastroo/Desafio01-Ignite)
+- [Desafio02-Ignite](https://github.com/vinicastroo/Desafio02-Ignite)
+- [Desafio03-Ignite](https://github.com/vinicastroo/Desafio03-Ignite) (this repo)
+- [Desafio04-Ignite](https://github.com/vinicastroo/Desafio04-Ignite)
+- [GithubExplorer-Ignite](https://github.com/vinicastroo/GithubExplorer-Ignite)
+- [ignews](https://github.com/vinicastroo/ignews)
